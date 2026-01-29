@@ -1,7 +1,8 @@
 :root{
   --maxw: 60ch;
   --pad: 18px;
-  --bg: #fff;
+  /* --bg: #fff; */
+  --bg: #F7F7F7;
   --text: #111;
 }
 
