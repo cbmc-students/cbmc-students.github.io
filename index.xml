@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CBMC Resources</title>
+    <title>CBMC Student Resources on CBMC Resources</title>
     <link>https://cbmc-students.github.io/</link>
-    <description>Recent content on CBMC Resources</description>
+    <description>Recent content in CBMC Student Resources on CBMC Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
